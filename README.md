@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Sayed Ishahath Ahmed! 👋
 
-<!--
-**sayedishahath/sayedishahath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer and tech enthusiast who loves building web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Edize education app](https://github.com/skill-harvest/crash_edize_backend).
+- 🌱 I’m learning **React**, **Node.js**, and **GraphQL**.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about **JavaScript**, **Web Development**, or **MERN**.
+- 📫 How to reach me: [sayedishahathahmed@gmail.com](mailto:sayedishahathahmed@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Ishahath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayedishahath&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/sayedishahath/)
