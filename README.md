@@ -9,7 +9,8 @@ I'm a passionate software developer and tech enthusiast who loves building web a
 - 📫 How to reach me: [sayedishahathahmed@gmail.com](mailto:sayedishahathahmed@gmail.com)
 
 ## 📊 GitHub Stats
-![Ishahath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayedishahath&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedishahath&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sayedishahath" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedishahath&&theme=tokyonight" alt="sayedishahath" /></p>
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/sayedishahath/)
