@@ -1,4 +1,4 @@
-# Hello, I'm Sayed Ishahath Ahmed! 👋
+# Hello, I'm Sayed Ishahath Ahmed! 
 
 I'm a passionate software developer and tech enthusiast who loves building web applications and exploring new technologies.
 
